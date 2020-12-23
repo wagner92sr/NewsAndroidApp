@@ -12,7 +12,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NewsAppStarter">
-        <activity android:name="wagnerrodrigues.io.newsappstarter.MainActivity">
+        <activity android:name=".SearchActivity"></activity>
+        <activity android:name=".FavoriteActivity" />
+        <activity android:name=".ArticleActivity" />
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
