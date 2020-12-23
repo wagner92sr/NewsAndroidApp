@@ -1,4 +1,4 @@
-package daniellopes.io.newsappstarter
+package wagnerrodrigues.io.newsappstarter
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
