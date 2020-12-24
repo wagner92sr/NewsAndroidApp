@@ -1,7 +1,8 @@
-package wagnerrodrigues.io.newsappstarter
+package wagnerrodrigues.io.newsappstarter.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import wagnerrodrigues.io.newsappstarter.R
 
 class ArticleActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
